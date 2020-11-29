@@ -1,5 +1,7 @@
 # password-validator
 
+Training project
+
 #### User story:
 - **As** a single sigh on (SSO) PO
 - **In order to** comply with secure password policy 
