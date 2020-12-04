@@ -1,6 +1,6 @@
 # password-validator
 
-Training project
+Learning project
 
 #### User story:
 - **As** a single sigh on (SSO) PO
